@@ -21,11 +21,3 @@ Knave is a desktop environment built around tiled windows and workspaces. It tre
 The initial overview focuses on the current workspace. It presents that workspace's tiled windows in their existing arrangement and makes minimized windows available as icons or cards.
 
 A later overview mode may show all workspaces that contain windows. The first implementation focuses on the current workspace.
-
-## Project status
-
-Knave is evolving. This README describes the project's design direction; it does not imply that every behavior described here is already implemented.
-
-## Branding
-
-The `assets/` directory contains transparent SVG marks for light and dark surfaces, in both color and monochrome versions.
